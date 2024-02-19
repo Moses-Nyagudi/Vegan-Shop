@@ -10,3 +10,4 @@
 10. type (python manage.py migrate)
 11. to run the server type (python manage.py runserver)
 12. admin credentials  username: administrator password: marauder
+13. type local:8000 to access website
