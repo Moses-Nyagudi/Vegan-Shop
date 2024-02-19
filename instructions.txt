@@ -1,0 +1,12 @@
+1. Ensure you have gitbash and python 12.
+2. Move to the directory where the folder is stored.
+3. create a virtual environment on your file using (python -m venv virt)
+4. type ls and click enter you should see virt/ as the output
+5. type (source virt/Script/activate) then enter
+6. when you click enter you should see (virt) as output
+7. install django using (python -m pip install django)
+8. install pillow using (python -m pip install pillow)
+9. type (python manage.py make migrations)
+10. type (python manage.py migrate)
+11. to run the server type (python manage.py runserver)
+12. admin credentials  username: administrator password: marauder
